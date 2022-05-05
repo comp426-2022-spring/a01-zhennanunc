@@ -1,0 +1,25 @@
+{
+  "name": "a01-zhennanunc",
+  "version": "0.0.1",
+  "description": "This package ocntains a very simple web server that takes one argument for port and then serves index.html in the www directory.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zhennanunc: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@github.com/comp426-2022-spring/a01-zhennanunc.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "zhennanunc",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a01-zhennanunc/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a01-zhennanunc#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
